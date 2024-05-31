@@ -4,9 +4,9 @@
 
 I use GitHub to store projects of personal and school projects. With GitHub I'll be trying to better my knowledge in IT 
 
-- 👓 My current skills: Cisco IOS | Windows | ADDS.
-- 🌱 I’m currently learning Linux | Docker | Ethical hacking | keeping my skills up-to-date.
-- 🔭 I’m currently working on a school project called SEA: “Integrated Cybersecurity Unit.” This involves building a startup that uses ethical purple team hacking to secure customers' IT infrastructure. In this project, we learn to build and operate a Security Operations Center (SOC), and learn to perform penetration testing (pentesting) to assess the security of our customers. 
+- 👓 My current skills: Cisco IOS 🛜 | Windows 🪟 | ADDS 🪪.
+- 🌱 I’m currently learning Linux 🐧 | Docker 🐳 | Ethical hacking 🧑🏻‍💻| keeping my skills up-to-date 📖.
+- 🔭 I’m currently working on a school project called SEA: “Integrated Cybersecurity Unit.” 🔐🪪 This involves building a startup that uses ethical purple team hacking to secure customers' IT infrastructure. In this project, we learn to build and operate a Security Operations Center (SOC), and learn to perform penetration testing (pentesting) to assess the security of our customers. 
 - ⚡ Fun fact: I've already completed an MBO 4 degree in Network Administration at Koning Willem I College. 
 
 
