@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Timothy Swaab
 #### Student HBO ICT: Infrastructure & Security Management at HAN University of Applied Sciences
-![Student HBO ICT: Infrastructure & Security Management at HAN University of Applied Sciences]
-<img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1nEEIH.img?w=768&h=432&m=6" align="center" style="width: 100%" />
 
 I use GitHub to store projects of personal and school projects. With GitHub I'll be trying to better my knowledge in IT 
 
